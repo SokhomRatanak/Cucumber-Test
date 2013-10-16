@@ -1,0 +1,14 @@
+# config/cucumber.yml
+##YAML Template
+# This file stores profiles for Cucumber
+#
+# Use them to run tests against different stages
+#
+# See https://github.com/cucumber/cucumber/wiki/Profiles
+---
+smoketest: --tags @smoketest
+default: CUCUMBER_HOST=http://www.web-essentials.asia/
+
+
+
+
