@@ -8,5 +8,5 @@ Feature: Home page
         Given I am on "homepage"
 	Then I should see "Homee"
 	And I should see "Newss"
-	And I should see "Who We Are"
+	And I should see "Who We Aree"
 
