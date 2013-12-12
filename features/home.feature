@@ -6,7 +6,7 @@ Feature: Home page
         Scenario: Home page is available
 
         Given I am on "homepage"
-	Then I should see "Home"
+	Then I should see "Homes"
 	And I should see "Newss"
 	And I should see "Who We Are"
 
