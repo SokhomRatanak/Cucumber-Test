@@ -9,4 +9,5 @@ Feature: Home page
 	Then I should see "Home"
 	And I should see "News"
 	And I should see "Who We Are"
+	Then I should see "Our Work"
 
